@@ -71,3 +71,14 @@ DELETE /api/paciente/{id} - Excluir paciente
 
 📌 Considerações Finais
 Este projeto está em fase inicial de desenvolvimento, com foco na arquitetura básica e integração com banco de dados. Futuras versões contemplarão autenticação JWT, testes automatizados, e interface web.
+
+👤 Sobre o Criador
+Este sistema foi desenvolvido por Micael Avelar como parte de um projeto acadêmico e profissional voltado ao aprimoramento de soluções para gestão hospitalar.
+
+GitHub: github.com/MicaelAvelar1994
+
+LinkedIn: linkedin.com/in/micaelavelar
+
+Email: micaelavelar1994@gmail.com
+
+RU: 4378289
