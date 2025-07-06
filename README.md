@@ -49,9 +49,6 @@ dotnet run
 Use o Postman para testar os endpoints da API (exemplo: GET /api/paciente).
 
 📁 Estrutura do Projeto
-pgsql
-Copiar
-Editar
 /SGHSS
  ├── Controllers/
  ├── Models/
@@ -60,6 +57,7 @@ Editar
  ├── Migrations/
  ├── appsettings.json
  └── Program.cs
+ 
 📄 Endpoints Principais
 GET /api/paciente - Listar pacientes
 
