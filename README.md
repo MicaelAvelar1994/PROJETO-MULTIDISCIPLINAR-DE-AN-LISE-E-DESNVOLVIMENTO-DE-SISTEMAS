@@ -67,7 +67,27 @@ PUT /api/paciente/{id} - Atualizar paciente
 
 DELETE /api/paciente/{id} - Excluir paciente
 
-(Endpoints para profissionais, prescrições, leitos, e agenda estão em desenvolvimento)
+
+GET /api/medico - Listar medicos
+
+POST /api/medico - Cadastrar novo medico
+
+PUT /api/medico/{id} - Atualizar medico
+
+DELETE /api/medico/{id} - Excluir medico
+
 
 📌 Considerações Finais
 Este projeto está em fase inicial de desenvolvimento, com foco na arquitetura básica e integração com banco de dados. Futuras versões contemplarão autenticação JWT, testes automatizados, e interface web.
+
+
+👤 Sobre o Criador
+Este sistema foi desenvolvido por Micael Avelar como parte de um projeto acadêmico voltado ao aprimoramento de soluções para gestão hospitalar.
+
+GitHub: github.com/MicaelAvelar1994
+
+LinkedIn: linkedin.com/in/micaelavelar
+
+Email: micaelavelar1994@gmail.com
+
+RU:4378289
