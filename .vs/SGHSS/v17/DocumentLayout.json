@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\shared\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\controllers\\internacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\internacoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\controllers\\prescricoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\prescricoescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\consultascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\pacientescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\shared\\models\\internacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\internacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\shared\\models\\prescricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\prescricao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\czarf\\onedrive\\\u00E1rea de trabalho\\sghss\\sghss\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\context\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Program.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Program.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Program.cs",
+              "RelativeToolTip": "SGHSS\\Program.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACwAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:44:27.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\appsettings.json",
+              "RelativeDocumentMoniker": "SGHSS\\appsettings.json",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\appsettings.json",
+              "RelativeToolTip": "SGHSS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-05T23:43:03.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:34:04.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\Shared\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\Shared\\Models\\Paciente.cs",
+              "RelativeToolTip": "Shared\\Models\\Paciente.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T23:25:31.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacientesController.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\PacientesController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\PacientesController.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\PacientesController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\PacientesController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:33:46.432Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\MedicosController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:33:45.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ConsultasController.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\ConsultasController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\ConsultasController.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\ConsultasController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\ConsultasController.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:32:49.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrescricoesController.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\PrescricoesController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\PrescricoesController.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\PrescricoesController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\PrescricoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:30:52.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InternacoesController.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\InternacoesController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\InternacoesController.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Controllers\\InternacoesController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\InternacoesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:30:17.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Context\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Context\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\SGHSS\\Context\\AppDbContext.cs",
+              "RelativeToolTip": "SGHSS\\Context\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:27:13.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Prescricao.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\Shared\\Models\\Prescricao.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Prescricao.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\Shared\\Models\\Prescricao.cs",
+              "RelativeToolTip": "Shared\\Models\\Prescricao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:20:02.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Internacao.cs",
+              "DocumentMoniker": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\Shared\\Models\\Internacao.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Internacao.cs",
+              "ToolTip": "C:\\Users\\czarf\\OneDrive\\\u00C1rea de Trabalho\\SGHSS\\Shared\\Models\\Internacao.cs",
+              "RelativeToolTip": "Shared\\Models\\Internacao.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T14:19:20.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\SGHSS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\user\\source\\repos\\sghss\\sghss\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\pacientecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\user\\source\\repos\\sghss\\sghss\\servicos\\servicospaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\servicos\\servicospaciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\user\\source\\repos\\sghss\\sghss\\sghss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\sghss.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|c:\\users\\user\\source\\repos\\sghss\\shared\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|c:\\users\\user\\source\\repos\\sghss\\shared\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C323E4F9-117F-46D3-B8DB-F5C67372752E}|Shared\\Shared.csproj|solutionrelative:shared\\models\\paciente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\user\\source\\repos\\sghss\\sghss\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|c:\\users\\user\\source\\repos\\sghss\\sghss\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CBDE111-FADA-4088-B170-241F0258497C}|SGHSS\\SGHSS.csproj|solutionrelative:sghss\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\Shared\\Models\\Consulta.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Consulta.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\Shared\\Models\\Consulta.cs",
+              "RelativeToolTip": "Shared\\Models\\Consulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T00:30:12.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PacienteController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\Controllers\\PacienteController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\PacienteController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\Controllers\\PacienteController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\PacienteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:20:32.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ServicosPaciente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\Servicos\\ServicosPaciente.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Servicos\\ServicosPaciente.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\Servicos\\ServicosPaciente.cs",
+              "RelativeToolTip": "SGHSS\\Servicos\\ServicosPaciente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T23:04:56.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SGHSS.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\SGHSS.csproj",
+              "RelativeDocumentMoniker": "SGHSS\\SGHSS.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\SGHSS.csproj",
+              "RelativeToolTip": "SGHSS\\SGHSS.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T23:03:22.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paciente.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\Shared\\Models\\Paciente.cs",
+              "RelativeDocumentMoniker": "Shared\\Models\\Paciente.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\Shared\\Models\\Paciente.cs",
+              "RelativeToolTip": "Shared\\Models\\Paciente.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:54:24.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SGHSS\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\WeatherForecast.cs",
+              "RelativeToolTip": "SGHSS\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:47:29.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SGHSS\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\SGHSS\\SGHSS\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SGHSS\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwB0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T22:47:43.023Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
